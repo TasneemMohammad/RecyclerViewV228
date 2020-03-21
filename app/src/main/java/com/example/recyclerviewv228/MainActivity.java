@@ -38,4 +38,8 @@ public class MainActivity extends AppCompatActivity {
     public void test2(){
         Toast.makeText(this,"test",Toast.LENGTH_SHORT).show();
     }
+    public void test3(){
+        Toast.makeText(this,"compare with two branches",Toast.LENGTH_SHORT).show();
+    }
+
 }
